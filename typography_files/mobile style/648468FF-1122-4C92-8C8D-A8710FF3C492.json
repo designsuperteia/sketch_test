@@ -1,0 +1,87 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Semibold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "lineHeightMultiple": 1,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 274,
+        "location": 0
+      }
+    ],
+    "string": "Mobile: Paragraph: Archetype lets designers like you very quickly and easily create consistent typography styling and spacing live, in the browser. These styles are all underpinned by established typographic best practices meaning less guesswork and more harmonious designs."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "648468FF-1122-4C92-8C8D-A8710FF3C492",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3B74A09-6851-488C-B33C-09AAA7F4268B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28EF5921-6188-40B3-B97D-DBE499EE9D35",
+    "height": 240,
+    "width": 320,
+    "x": -160,
+    "y": -1335
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Mobile: Paragraph: Archetype lets designers like you very quickly and easily create consistent typography styling and spacing live, in the browser. These styles are all underpinned by established typographic best practices meaning less guesswork and more harmonious designs.",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AA42C08-E81A-4FE6-BA93-D01299D69609",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

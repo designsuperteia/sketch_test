@@ -1,0 +1,87 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Semibold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "lineHeightMultiple": 1,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 418,
+        "location": 0
+      }
+    ],
+    "string": "Mobile: Paragraph: It's easy peasy: 1) Start by selecting a visually compatible font pair. 2) Define harmoniously proportioned sizes for all the standard typographic elements your design might require. 3) Set the optimal vertical spacing of all elements in your design. 4) Tweak and refine individual elements to get everything looking exactly the way you want. 5) Export as CSS ready to send to a developer. Job Done."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "628D37D3-5488-4074-ABFD-AB6CC533F057",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C30F833-BB92-4696-AE40-2DE6FC95222F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B98CECF5-874A-4DC8-87AE-2DA86C6D4AB3",
+    "height": 330,
+    "width": 320,
+    "x": -160,
+    "y": -285
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Mobile: Paragraph: It's easy peasy: 1) Start by selecting a visually compatible font pair. 2) Define harmoniously proportioned sizes for all the standard typographic elements your design might require. 3) Set the optimal vertical spacing of all elements in your design. 4) Tweak and refine individual elements to get everything looking exactly the way you want. 5) Export as CSS ready to send to a developer. Job Done.",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39CC85E3-05AD-40FF-8CF8-21026702F69C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}
